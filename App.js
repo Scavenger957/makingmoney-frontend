@@ -1,0 +1,1 @@
+// React app con interfaz, listado de productos y gráficos
